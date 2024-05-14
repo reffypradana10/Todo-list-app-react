@@ -70,6 +70,14 @@ h1 {
   margin-bottom: 1rem;
 }
 
+.Todo p {
+  cursor: pointer;
+}
+
+path {
+  cursor: pointer;
+}
+
 .fa-trash {
   margin-left: 0.75rem;
 }
